@@ -46,10 +46,10 @@ This project was built to solve a real problem faced by students during internsh
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/150bd4ea-2e09-4c5a-a48c-fab4aa9f6f3f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/276dabe5-9aa9-4dc9-a072-61e348badcea" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbb93ebb-427b-4601-9338-d51e78eba153" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d3adc0d-1919-4d96-9444-13fb8e661e75" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/150bd4ea-2e09-4c5a-a48c-fab4aa9f6f3f" />  </br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/276dabe5-9aa9-4dc9-a072-61e348badcea" />  </br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbb93ebb-427b-4601-9338-d51e78eba153" />  </br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d3adc0d-1919-4d96-9444-13fb8e661e75" />  </br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41b4a8d7-f923-4373-bcc3-4a286a5963e9" />
 
 
