@@ -1,4 +1,4 @@
-# 🚀 InternTrack – Internship Tracker Dashboard
+# InternTrack – Internship Tracker Dashboard
 
 🔗 Live Demo: https://internship-tracker-dashboard.vercel.app/
 
@@ -6,7 +6,7 @@ A modern, responsive web application designed to help students efficiently manag
 
 ---
 
-## 📌 Overview
+## Overview
 
 InternTrack is a student-focused productivity dashboard that simplifies the internship search process by allowing users to:
 
@@ -20,22 +20,22 @@ This project was built to solve a real problem faced by students during internsh
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 Clean and intuitive user interface
-- 📊 Centralized dashboard for all applications
-- 📌 Add, update, and delete internship entries
-- 📈 Status tracking (Applied / Interview / Rejected / Selected)
-- ⏰ Deadline management
-- 📝 Notes section for each application
-- 🔍 Filter by company and status
-- 🌙 Dark Mode / ☀️ Light Mode toggle
-- 🎯 Smooth UI with modern design
-- ⚡ Fully responsive layout
+- Clean and intuitive user interface
+- Centralized dashboard for all applications
+- Add, update, and delete internship entries
+- Status tracking (Applied / Interview / Rejected / Selected)
+- Deadline management
+- Notes section for each application
+- Filter by company and status
+- Dark Mode / Light Mode toggle
+- Smooth UI with modern design
+- Fully responsive layout
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js, React.js
 - **Styling:** Tailwind CSS
@@ -44,7 +44,7 @@ This project was built to solve a real problem faced by students during internsh
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/150bd4ea-2e09-4c5a-a48c-fab4aa9f6f3f" />  </br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/276dabe5-9aa9-4dc9-a072-61e348badcea" />  </br>
@@ -56,7 +56,7 @@ This project was built to solve a real problem faced by students during internsh
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 /app
 ├── dashboard
@@ -75,7 +75,7 @@ This project was built to solve a real problem faced by students during internsh
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was built to address a real student problem:
 
@@ -83,7 +83,7 @@ This project was built to address a real student problem:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - Building a full dashboard UI using Next.js
 - Managing state and persistent data with localStorage
@@ -93,17 +93,17 @@ This project was built to address a real student problem:
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
-- 🔗 Backend integration (Firebase / Supabase)
-- 🔐 Authentication system
-- ☁️ Cloud-based data storage
-- 📊 Advanced analytics dashboard
-- 📱 Enhanced mobile experience
+- Backend integration (Firebase / Supabase)
+- Authentication system
+- Cloud-based data storage
+- Advanced analytics dashboard
+- Enhanced mobile experience
 
 ---
 
-## 🧪 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/JIIT-Himanshi/internship-tracker-dashboard.git
