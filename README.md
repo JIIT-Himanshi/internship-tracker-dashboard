@@ -2,7 +2,7 @@
 
 A modern, responsive web application designed to help students efficiently manage and track their internship applications in one place.
 
-
+Live Demo: https://internship-tracker-dashboard.vercel.app/
 
 ---
 
